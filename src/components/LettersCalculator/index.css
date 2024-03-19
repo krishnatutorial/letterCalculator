@@ -1,0 +1,21 @@
+/* Write your code here. */
+.container {
+  background-color: #93f9b9;
+  height: 100vh;
+  display: flex;
+}
+.heading {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+.c2 {
+  background-color: #ffffff;
+  height: 300px;
+  width: 500px;
+}
+.button {
+  outline:none;
+  color:#219a6f;
+}
